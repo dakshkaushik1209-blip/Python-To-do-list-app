@@ -62,7 +62,7 @@ Task marked as completed
 
 ##  Project Structure
 ```
-To-do-list.py
+To do list.py
 README.md
 ```
 
@@ -79,13 +79,13 @@ git clone https://github.com/your-username/Python-To-do-list.git
 2. Open the project folder
 
 ```bash
-cd Python-To-do-list
+cd To do list
 ```
 
 3. Run the program
 
 ```bash
-python "To-do-list.py"
+python "To do list.py"
 ```
 
 ---
